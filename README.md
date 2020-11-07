@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Optimus Price](https://optimusprice.ai)
 
-- 🌱 I’m currently learning **Vim**
+- 🌱 I’m currently learning **Vim, typing speed**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -25,5 +25,5 @@
 
 <p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaviv19&show_icons=true&locale=en&layout=compact" alt="xaviv19" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaviv19&show_icons=true&locale=en" alt="xaviv19" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xaviv19&show_icons=true&locale=en" alt="xaviv19" />
 </p>
