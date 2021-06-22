@@ -25,5 +25,6 @@
 -->
 <p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaviv19&show_icons=true&locale=en&layout=compact" alt="xaviv19" />
+  </br>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xaviv19&show_icons=true&locale=en" alt="xaviv19" />
 </p>
