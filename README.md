@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaviv19" alt="xaviv19" /></a> </p>
 
-- 🔭 I’m currently working on [Optimus Price](https://optimusprice.ai)
+<!--- 🔭 I’m currently working on -->
 
 - 🌱 I’m currently learning **Vim, typing speed**
 
